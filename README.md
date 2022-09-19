@@ -6,7 +6,7 @@
 안드로이드의 경우, 앱스토어에서 전용 앱을 다운받으시기 바랍니다. 
 
 ## 사용법
->1. iOS 단축어를 받습니다. 1.  [https://www.icloud.com/shortcuts/870db2641da54441a06756fc0be122bf](https://www.icloud.com/shortcuts/870db2641da54441a06756fc0be122bf "https://www.icloud.com/shortcuts/870db2641da54441a06756fc0be122bf")
+>1. iOS 단축어를 받습니다. [https://www.icloud.com/shortcuts/870db2641da54441a06756fc0be122bf](https://www.icloud.com/shortcuts/870db2641da54441a06756fc0be122bf "https://www.icloud.com/shortcuts/870db2641da54441a06756fc0be122bf")
 >2. 단축어 편집에 들어가, 텍스트에 있는 이름, 생년월일 등 자신의 정보를 채웁니다.
 >3. 해당 단축어를 실행시키면 끝입니다. 자동화를 설정하셔도 좋습니다.
 
