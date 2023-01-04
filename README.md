@@ -29,8 +29,17 @@
 ## 지역 및 학교급
 <details>
     <summary>교육청 지역 및 학교급 모음</summary>
-
-이따 쓸래요.
+    
+    <details>
+        <summary>서울</summary>
+        
+        내용
+    </details>
+        <details>
+        <summary>경기도</summary>
+        
+        내용
+    </details>
 </details>
 
 ## 업데이트
