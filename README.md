@@ -34,11 +34,13 @@
         <summary>서울</summary>
         
         내용
+        
     </details>
         <details>
         <summary>경기도</summary>
         
         내용
+        
     </details>
 </details>
 
